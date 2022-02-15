@@ -5,5 +5,5 @@
             coordsEl.textContent = `${position.coords.latitude}, ${position.coords.longitude}`
             coordsEl.parentElement.classList.remove('invisible');
         });
-    }
+    } 857e3d95477bfbd9c93fb04804a64d0007c1c075
 })();
